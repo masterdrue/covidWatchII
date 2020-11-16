@@ -1,0 +1,22 @@
+h6 {
+  font-family: "Quicksand", sans-serif !important;
+  font-weight: bold !important;
+}
+
+.root {
+  flex-grow: 1;
+  display: block;
+}
+
+.appbar {
+  background-color: rgba(0, 0, 0, 0.886) !important;
+  color: rgb(245, 243, 243) !important;
+}
+
+.image {
+  width: 15px;
+  padding-left: 2px;
+  
+}
+
+
