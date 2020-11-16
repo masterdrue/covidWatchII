@@ -1,5 +1,5 @@
 # CovidWatch
-https://github.com/masterdrue/covidWatch
+https://github.com/masterdrue/covidWatchII
 
 CovidWatch is built on React, Node.js, and Chart.js for the purposes of displaying COVID-19 data at a global and country level.
 

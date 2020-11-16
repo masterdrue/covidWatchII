@@ -6,9 +6,7 @@ import Box from "@material-ui/core/Box";
 import Button from "@material-ui/core/Button";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import IconButton from "@material-ui/core/IconButton";
-
 import covidImage from "../../images/logo-250.png";
-
 import styles from "./Navbar.module.css";
 
 
