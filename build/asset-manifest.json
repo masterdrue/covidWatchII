@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/masterdrue/covidWatch/static/css/main.94839b4e.chunk.css",
+    "main.js": "/masterdrue/covidWatch/static/js/main.1b8f4c7f.chunk.js",
+    "main.js.map": "/masterdrue/covidWatch/static/js/main.1b8f4c7f.chunk.js.map",
+    "runtime-main.js": "/masterdrue/covidWatch/static/js/runtime-main.53a199b2.js",
+    "runtime-main.js.map": "/masterdrue/covidWatch/static/js/runtime-main.53a199b2.js.map",
+    "static/js/2.b6784be0.chunk.js": "/masterdrue/covidWatch/static/js/2.b6784be0.chunk.js",
+    "static/js/2.b6784be0.chunk.js.map": "/masterdrue/covidWatch/static/js/2.b6784be0.chunk.js.map",
+    "index.html": "/masterdrue/covidWatch/index.html",
+    "precache-manifest.ef42f29b9356660aaeffa3ce74fe3768.js": "/masterdrue/covidWatch/precache-manifest.ef42f29b9356660aaeffa3ce74fe3768.js",
+    "service-worker.js": "/masterdrue/covidWatch/service-worker.js",
+    "static/css/main.94839b4e.chunk.css.map": "/masterdrue/covidWatch/static/css/main.94839b4e.chunk.css.map",
+    "static/js/2.b6784be0.chunk.js.LICENSE.txt": "/masterdrue/covidWatch/static/js/2.b6784be0.chunk.js.LICENSE.txt",
+    "static/media/cv19.png": "/masterdrue/covidWatch/static/media/cv19.ad9e5ff1.png",
+    "static/media/logo-250.png": "/masterdrue/covidWatch/static/media/logo-250.79f77b59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53a199b2.js",
+    "static/js/2.b6784be0.chunk.js",
+    "static/css/main.94839b4e.chunk.css",
+    "static/js/main.1b8f4c7f.chunk.js"
+  ]
+}
