@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/masterdrue/covidWatch/static/css/main.94839b4e.chunk.css",
-    "main.js": "/masterdrue/covidWatch/static/js/main.1b8f4c7f.chunk.js",
-    "main.js.map": "/masterdrue/covidWatch/static/js/main.1b8f4c7f.chunk.js.map",
-    "runtime-main.js": "/masterdrue/covidWatch/static/js/runtime-main.53a199b2.js",
-    "runtime-main.js.map": "/masterdrue/covidWatch/static/js/runtime-main.53a199b2.js.map",
-    "static/js/2.b6784be0.chunk.js": "/masterdrue/covidWatch/static/js/2.b6784be0.chunk.js",
-    "static/js/2.b6784be0.chunk.js.map": "/masterdrue/covidWatch/static/js/2.b6784be0.chunk.js.map",
-    "index.html": "/masterdrue/covidWatch/index.html",
-    "precache-manifest.ef42f29b9356660aaeffa3ce74fe3768.js": "/masterdrue/covidWatch/precache-manifest.ef42f29b9356660aaeffa3ce74fe3768.js",
-    "service-worker.js": "/masterdrue/covidWatch/service-worker.js",
-    "static/css/main.94839b4e.chunk.css.map": "/masterdrue/covidWatch/static/css/main.94839b4e.chunk.css.map",
-    "static/js/2.b6784be0.chunk.js.LICENSE.txt": "/masterdrue/covidWatch/static/js/2.b6784be0.chunk.js.LICENSE.txt",
-    "static/media/cv19.png": "/masterdrue/covidWatch/static/media/cv19.ad9e5ff1.png",
-    "static/media/logo-250.png": "/masterdrue/covidWatch/static/media/logo-250.79f77b59.png"
+    "main.css": "/covidWatchII/static/css/main.94839b4e.chunk.css",
+    "main.js": "/covidWatchII/static/js/main.1b8f4c7f.chunk.js",
+    "main.js.map": "/covidWatchII/static/js/main.1b8f4c7f.chunk.js.map",
+    "runtime-main.js": "/covidWatchII/static/js/runtime-main.c574cf77.js",
+    "runtime-main.js.map": "/covidWatchII/static/js/runtime-main.c574cf77.js.map",
+    "static/js/2.a0577574.chunk.js": "/covidWatchII/static/js/2.a0577574.chunk.js",
+    "static/js/2.a0577574.chunk.js.map": "/covidWatchII/static/js/2.a0577574.chunk.js.map",
+    "index.html": "/covidWatchII/index.html",
+    "precache-manifest.e511153105b81aeb8e89709e620fb05b.js": "/covidWatchII/precache-manifest.e511153105b81aeb8e89709e620fb05b.js",
+    "service-worker.js": "/covidWatchII/service-worker.js",
+    "static/css/main.94839b4e.chunk.css.map": "/covidWatchII/static/css/main.94839b4e.chunk.css.map",
+    "static/js/2.a0577574.chunk.js.LICENSE.txt": "/covidWatchII/static/js/2.a0577574.chunk.js.LICENSE.txt",
+    "static/media/cv19.png": "/covidWatchII/static/media/cv19.ad9e5ff1.png",
+    "static/media/logo-250.png": "/covidWatchII/static/media/logo-250.79f77b59.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.53a199b2.js",
-    "static/js/2.b6784be0.chunk.js",
+    "static/js/runtime-main.c574cf77.js",
+    "static/js/2.a0577574.chunk.js",
     "static/css/main.94839b4e.chunk.css",
     "static/js/main.1b8f4c7f.chunk.js"
   ]
