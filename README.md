@@ -10,13 +10,13 @@ CovidWatch is built on React, Node.js, and Chart.js for the purposes of displayi
 
 
 ### Under the hood
-* JavaScript
 * HTML
 * CSS
 * React
 * Node.js
 * Chart.js
 * Axios
+* JavaScript
 
 # CONTACT
 Drue McCombs - DruesCloud - https://druescloud.com 
