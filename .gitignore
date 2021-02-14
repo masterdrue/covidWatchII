@@ -15,6 +15,7 @@ lerna-debug.log*
 
 # testing
 /coverage
+/tmp
 
 # production
 
