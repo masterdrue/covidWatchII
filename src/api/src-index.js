@@ -54,4 +54,3 @@ export const fetchCountries = async () => {
     return error;
   }
 };
-

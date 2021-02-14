@@ -1,0 +1,19 @@
+.formControl {
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+.options {
+  padding: 0 10px !important;
+}
+
+.customselect {
+  color: #610505;
+  cursor: pointer;
+  font-size: 1.5em !important;
+}
+
+#list {
+  animation: shake 0.5s;    
+  animation-iteration-count: 2s;
+}

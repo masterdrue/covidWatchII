@@ -9,7 +9,7 @@ CovidWatch is built on React, Node.js, and Chart.js for the purposes of displayi
 * The default view will display a line chart referencing data at a global level. A selector is provided to drill down into country level data.
 
 
-### Under the hood
+### Under the Hood
 * HTML
 * CSS
 * React
